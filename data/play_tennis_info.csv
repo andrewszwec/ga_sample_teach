@@ -1,0 +1,6 @@
+Attribute,Possible Values
+Outlook,"sunny, overcast, rain"
+Temperature,"hot, mild, cool"
+Humidity,"high, normal"
+Windy,"true, false"
+Decision,"n(negative), p(positive)"
